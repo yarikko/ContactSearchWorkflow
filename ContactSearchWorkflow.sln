@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactSearchWorkflow", "ContactSearchWorkflow\ContactSearchWorkflow.csproj", "{69B8EF8D-A5C0-404D-A22C-DA6F950D984D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactSearchWorkflow.Tests", "ContactSearchWorkflow.Tests\ContactSearchWorkflow.Tests.csproj", "{B7199A94-FB62-45B8-8D7E-CF1657EDEB0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69B8EF8D-A5C0-404D-A22C-DA6F950D984D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B8EF8D-A5C0-404D-A22C-DA6F950D984D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B8EF8D-A5C0-404D-A22C-DA6F950D984D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B8EF8D-A5C0-404D-A22C-DA6F950D984D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7199A94-FB62-45B8-8D7E-CF1657EDEB0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7199A94-FB62-45B8-8D7E-CF1657EDEB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7199A94-FB62-45B8-8D7E-CF1657EDEB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7199A94-FB62-45B8-8D7E-CF1657EDEB0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CA562C9-2651-443E-B594-F58F2A1CD1D4}
+	EndGlobalSection
+EndGlobal
